@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(0, 0, 0, 0.74);
+}
+
+.list-group{
+    color: rgb(128, 207, 207);
+    list-style: none;
+    
+}
+
+#button-addon2{
+    color: white;
+}
+
+.list-group li{
+    margin-left: 2rem;
+    font-size: 2rem;
+    font-family: initial;
+    
+    border-bottom: 1px solid red;
+    
+}
+
+#list_item{
+    font-weight: 1000;
+}
+
+.heading{
+    text-align: center;
+    color: gray;
+}
+
+.information{
+    text-align: center;
+    font: 2rem;
+    color: gray;
+}
